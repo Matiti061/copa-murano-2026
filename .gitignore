@@ -1,0 +1,8 @@
+# Documentos fuente del torneo (no son necesarios para la app)
+*.pdf
+*.xlsx
+
+# Configuración local de herramientas
+.claude/
+
+node_modules/
