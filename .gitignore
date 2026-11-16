@@ -2,6 +2,9 @@
 *.pdf
 *.xlsx
 
+# El logo se usa desde app/img/; esta es la copia original de la carpeta raíz
+/Logo_Murano.jpg
+
 # Configuración local de herramientas
 .claude/
 
